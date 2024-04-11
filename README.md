@@ -18,4 +18,5 @@ G2 API Token: Set the G2 API token in main.py.
 
 **Usage:**
 
-Run the main script using the command - python main.py
+Install streamlit library -> pip install streamlit
+Run the streamlit app using the command -> python -m streamlit run interface.py
