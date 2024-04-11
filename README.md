@@ -12,10 +12,13 @@ We have used MonogDB atlas for storing the product details. The system first fet
 **Configuration:**
 
 MongoDB URI: Set the MongoDB connection URI in main.py.
+
 G2 API Token: Set the G2 API token in main.py.
 
 
 
 **Usage:**
 
-Run the main script using the command - python main.py
+Install streamlit library -> pip install streamlit
+
+Run the streamlit app using the command -> python -m streamlit run interface.py
