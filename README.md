@@ -20,8 +20,8 @@ The G2 Products Monitoring System is a Python application that periodically iden
    
 
 **Configuration:**
-MongoDB URI: Set the MongoDB connection URI in main.py. (we have used our deployment, which can still be accessed)
-G2 API Token: Set the G2 API token in main.py.
+1. MongoDB URI: Set the MongoDB connection URI in main.py. (we have used our deployment, which can still be accessed)
+2. G2 API Token: Set the G2 API token in main.py.
 
 
 **Installations:**
