@@ -82,6 +82,7 @@ def main():
         - Tool: Postman (used for visualizing the returned json response)
         - Database: MongoDB Atlas (Cloud Database)
         - Interface: Streamlit
+        - Cron: Automation (Weekly database update)
         """)
 
     
