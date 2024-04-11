@@ -26,9 +26,9 @@ G2 API Token: Set the G2 API token in main.py.
 
 **Installations:**
 
-Install streamlit library -> pip install streamlit
-Install pymongo -> pip install pymongo 
+1. Install streamlit library -> pip install streamlit
+2. Install pymongo -> pip install pymongo 
 
 **Run the script:**
-To update the database run the automate.py -> python automate.py (database is already updated - last_update: 11-04-2024)
-To view the data: run the streamlit app using the command -> python -m streamlit run interface.py
+1. To update the database run the automate.py -> python automate.py (database is already updated - last_update: 11-04-2024)
+2. To view the data: run the streamlit app using the command -> python -m streamlit run interface.py
